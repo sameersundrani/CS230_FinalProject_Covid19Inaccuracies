@@ -6,6 +6,7 @@ This repo contains the code for _A Deep Learning Approach to Quantifying COVID-1
 by Sameer Sundrani (sundrani) and Amy Zhang (ayzhang)
 
 Files available:
-Code.ipynb: iPython notebook detailing all relevant dataset preparation and modelling. 
+Code.ipynb: iPython notebook detailing all milestone level relevant dataset preparation and modelling. 
+Final Code.ipynb: iPython notebook detailing all final project level relevant dataset preparation and modelling. 
 
 Contact sundrani@stanford.edu with any questions!
